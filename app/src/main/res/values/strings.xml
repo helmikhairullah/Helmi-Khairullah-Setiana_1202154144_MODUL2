@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">HELMI_1202154144_MODUL2</string>
+    <string name="nasgor">nasgor</string>
+
+    <string-array name="nomor_meja">
+        <item> Meja 1</item>
+        <item> Meja 2</item>
+        <item> Meja 3</item>
+        <item> Meja 4</item>
+        <item> Meja 5</item>
+    </string-array>
+
+    <array name="menu_images">
+        <item>@drawable/nasgor</item>
+        <item>@drawable/nasgor</item>
+        <item>@drawable/miegoreng</item>
+        <item>@drawable/miegoreng2</item>
+        <item>@drawable/miegoreng3</item>
+        <item>@drawable/nasgor</item>
+        <item>@drawable/nasgor</item>
+        <item>@drawable/nasgor</item>
+    </array>
+
+    <string-array name="menu_makanan">
+        <item>nasi goreng</item>
+        <item>mie goreeng special</item>
+        <item>Mie Kuah special </item>
+        <item>sate madura</item>
+        <item>nasi wagyu</item>
+        <item>mie kuah upnormal</item>
+        <item>Nasi goreng Bawang</item>
+    </string-array>
+
+    <string-array name="harga">
+        <item>Rp 25.000</item>
+        <item>Rp 23.000</item>
+        <item>Rp 20.000</item>
+        <item>Rp 18.000</item>
+        <item>Rp 12.000</item>
+        <item>Rp 12.000</item>
+        <item>Rp 15.000</item>
+        <item>Rp 17.000</item>
+    </string-array>
+
+    <string-array name="komposisinya" >
+        <item>ayam, sate, bumbu madura</item>
+        <item>sayur, smabal, kecap, </item>
+        <item>mie, kuah, micin</item>
+        <item>mie, kuah, micin</item>
+        <item>mie, kecap, sambal, sayur, timun</item>
+        <item>Nasi, kecap, daging ayam, smabal</item>
+        <item>Nasi, kecap, daging ayam, smabal, bawang</item>
+        <item>Nasi, kecap, daging ayam, smabal, wagyu</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
